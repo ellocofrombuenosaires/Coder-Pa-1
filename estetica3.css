@@ -1,0 +1,50 @@
+
+header {
+    background-color: goldenrod;
+   color: black; 
+}
+
+
+
+
+.imgjordan {
+    width: 400px;
+    height: 550px;
+    display: flex;
+}
+
+.imgadmiral {
+    width: 400px;
+    height: 550px;
+    display: flex;
+}
+
+h1 {
+    background-color: goldenrod;
+    width: 50%;
+    color: black;
+   }
+
+.caja6{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 40px
+}
+
+.caja7{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 40px
+}
+
+.caja5 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+    width: 50%;
+}
+
